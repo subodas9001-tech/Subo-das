@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Brand Style</string>
+    <string name="brand_admin_login">ব্র্যান্ড অ্যাডমিন লগইন</string>
+    <string name="admin_subtitle">অননুমোদিত অ্যাক্সেস রোধে সুরক্ষিত অ্যাডমিন প্যানেল</string>
+    <string name="secret_password_hint">আপনার সিক্রেট পাসওয়ার্ড দিন</string>
+    <string name="login_button">অ্যাডমিন লগইন</string>
+    <string name="public_catalog_mode">পাবলিক ক্যাটালগ দেখুন</string>
+    <string name="admin_mode">অ্যাডমিন প্যানেল</string>
+    <string name="login_success">আপনি সফলভাবে অ্যাডমিন হিসেবে লগইন করেছেন।</string>
+    <string name="login_failed">ভুল পাসওয়ার্ড, সঠিক পাসওয়ার্ড দিন।</string>
+    <string name="post_new_style">নতুন স্টাইল পোস্ট করুন</string>
+    <string name="product_name_hint">পণ্য/পোশাকের নাম (যেমন: New Style T-Shirt)</string>
+    <string name="category_hint">ক্যাটাগরি (T-Shirt নাকি Pant)</string>
+    <string name="color_hint">কালার/রং (যেমন: Red, Navy Blue)</string>
+    <string name="post_button">স্টাইল পোস্ট করুন</string>
+    <string name="fill_all_fields">দয়া করে সব ঘর পূরণ করুন।</string>
+    <string name="post_success">নতুন স্টাইল সফলভাবে পোস্ট করা হয়েছে।</string>
+    <string name="live_posts_title">লাইভ পোস্ট তালিকা</string>
+    <string name="empty_posts">এখনো কোনো স্টাইল পোস্ট করা হয়নি।</string>
+    <string name="logout">লগআউট</string>
+</resources>
+
